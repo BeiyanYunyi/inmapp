@@ -1,4 +1,4 @@
-package mgks.os.swv;
+package mgks.os.inmadv;
 
 import android.content.Intent;
 import android.net.Uri;

@@ -1,4 +1,4 @@
-package mgks.os.swv;
+package mgks.os.inmadv;
 
 import org.junit.Test;
 

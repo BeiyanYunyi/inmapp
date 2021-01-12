@@ -1,4 +1,4 @@
-package mgks.os.swv;
+package mgks.os.inmadv;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -8,13 +8,13 @@ import android.view.View;
 
 import java.util.Date;
 
-import static mgks.os.swv.DialogManager.create;
-import static mgks.os.swv.PreferenceHelper.getInstallDate;
-import static mgks.os.swv.PreferenceHelper.getIsAgreeShowDialog;
-import static mgks.os.swv.PreferenceHelper.getLaunchTimes;
-import static mgks.os.swv.PreferenceHelper.getRemindInterval;
-import static mgks.os.swv.PreferenceHelper.isFirstLaunch;
-import static mgks.os.swv.PreferenceHelper.setInstallDate;
+import static mgks.os.inmadv.DialogManager.create;
+import static mgks.os.inmadv.PreferenceHelper.getInstallDate;
+import static mgks.os.inmadv.PreferenceHelper.getIsAgreeShowDialog;
+import static mgks.os.inmadv.PreferenceHelper.getLaunchTimes;
+import static mgks.os.inmadv.PreferenceHelper.getRemindInterval;
+import static mgks.os.inmadv.PreferenceHelper.isFirstLaunch;
+import static mgks.os.inmadv.PreferenceHelper.setInstallDate;
 
 public final class AppRate {
 

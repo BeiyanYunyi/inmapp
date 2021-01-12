@@ -1,4 +1,4 @@
-package mgks.os.swv;
+package mgks.os.inmadv;
 
 import android.Manifest;
 import android.annotation.SuppressLint;

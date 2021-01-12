@@ -1,4 +1,4 @@
-package mgks.os.swv;
+package mgks.os.inmadv;
 
 import android.app.Notification;
 import android.app.NotificationManager;
