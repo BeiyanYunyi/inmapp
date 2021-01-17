@@ -1,4 +1,4 @@
-package mgks.os.inmadv;
+package club.penclub.wind.inmadv;
 
 import org.junit.Test;
 

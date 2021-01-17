@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:339172433791:android:7a55844177179d6924044a",
         "android_client_info": {
-          "package_name": "mgks.os.swv"
+          "package_name": "club.penclub.wind.inmadv"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "339172433791-f8iuroi9i108soojcglravmgou7nj7bq.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "mgks.os.swv",
+            "package_name": "club.penclub.wind.inmadv",
             "certificate_hash": "e5d43bf774a933471150a016155fc26923137f6f"
           }
         },
@@ -48,7 +48,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:339172433791:android:8b118e9b6dc457cb24044a",
         "android_client_info": {
-          "package_name": "mgks.os.webview"
+          "package_name": "club.penclub.wind.webview"
         }
       },
       "oauth_client": [
@@ -77,7 +77,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:339172433791:android:96b968234f95f5da24044a",
         "android_client_info": {
-          "package_name": "mgks.os.webview.drawer"
+          "package_name": "club.penclub.wind.webview.drawer"
         }
       },
       "oauth_client": [
@@ -107,7 +107,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:339172433791:android:84a49885c37cec4b24044a",
         "android_client_info": {
-          "package_name": "mgks.os.webview.fullscreen"
+          "package_name": "club.penclub.wind.webview.fullscreen"
         }
       },
       "oauth_client": [
