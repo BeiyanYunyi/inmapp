@@ -20,7 +20,7 @@
 	<string name="dl_downloading2">Downloading File</string>
 	<string name="fl_chooser">File Chooser</string>
 	<string name="went_wrong">Something Went Wrong!</string>
-	<string name="check_connection">Please check your Network Connection!</string>
+	<string name="check_connection">请检查网络连接</string>
 	<string name="share_w_friends">Share with your Friends</string>
 	<string name="notification_channel_name">Important Alerts</string>
 	<string name="notification_channel_desc">Get latest and important alerts.</string>
@@ -29,8 +29,8 @@
 	<string name="open">打开</string>
 	<string name="close">关闭</string>
 	<string name="search_hint">输入搜索字符串</string>
-	<string name="connecting">Connecting…</string>
-	<string name="exit_title">要退出吗？</string>
+	<string name="connecting">少女祈祷中</string>
+	<string name="exit_title">退出</string>
 	<string name="exit_subtitle">要退出吗？</string>
 	<string name="print_complete">Printing complete</string>
 	<string name="print_failed">Printing failed</string>
