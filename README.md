@@ -1,4 +1,4 @@
-# inmapp  
+# inmapp (Standard) 
 
 Just a webview for our BBS. Edited from [this repository](https://github.com/slymax/webview).
 
